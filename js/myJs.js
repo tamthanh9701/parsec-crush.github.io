@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "Tải Parsec",
+  text2: "Hãy chắc rằng bạn muốn tải Parsec",
+  text3: "Hãy bấm Tải Xuống để tải Parsec",
+  text4: "Be yourself",
+  text5: "Tải xuống",
+  text6: "Hủy",
+  text7: "Anh yêu em! EM đừng giận anh nữa nhé. Hãy trả lời anh đi",
+  text8: "Gửi cho anh nhé <3",
+  text9: "Em hết giận rồi",
+  text10: "Anh biết mà ^^ Yêu cậu 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Iu em nhiều lémmmmm",
+  text12: "Em cũng yêu anh hihi",
 };
 
 $(document).ready(function () {
